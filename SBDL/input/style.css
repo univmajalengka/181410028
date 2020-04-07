@@ -1,0 +1,119 @@
+
+body{
+	font-family: 'roboto';
+}
+
+.judul{
+	background: #21214a;
+	padding: 10px;
+	text-align: center;
+
+}
+
+.container {
+  margin: 20px auto 0;
+  max-width: 900px;
+  text-align: center;
+}
+
+table {
+
+  color: black;
+}
+
+td,
+th {
+  padding: 1em;
+  border: 1px solid #aaa;
+  color: black;
+}
+tr {
+  background: #d1e9f8;
+  color: black;	
+}
+
+th {
+  background: #d1e9f8;
+  color: black;
+}
+
+td {
+  background: #eaf1fb;
+  color: black;
+}
+
+.text {
+  padding: .5em;
+  color: #ffffff;
+}
+
+.separate {
+  border-collapse: separate;
+}
+
+.collapsed {
+  border-collapse: collapse;
+}
+
+.judul h1,h2,h3{
+	height: 20px;
+}
+
+a{
+	color: black;
+	padding: 5px;
+	text-decoration: none;	
+}
+
+
+button {
+	color: black;
+}
+
+
+}
+		.body{
+				background-image: url('images/bg.jpg');
+				width: 100%;
+				height: 1000px;
+
+			}
+		.nav {
+			margin: auto;
+			text-align: center;
+			width: 100%;
+			font-family: arial;
+		}
+		.btn {
+			padding: 10px 24px;
+			border: 2px;
+			background: #21214a;
+			font-weight: bold;
+			font-size: 14px;
+			font-family: "calibri", Times, serif;
+			text-align: center;
+			text-transform: uppercase;
+			text-align: center;
+			color: white;
+}
+}
+		a {
+			color: black;
+		}
+		tr {
+			color: black;
+		}
+		td{
+			color: black;
+		}
+		h1 {
+			color: white;
+		}
+		h2{
+			color: white;
+			font-size: 40px;
+		}
+		h3 {
+			color: white;
+		}
+				
